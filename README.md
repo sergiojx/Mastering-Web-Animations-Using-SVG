@@ -1,19 +1,16 @@
 
-
-# Mastering-Web-Animations-Using-SVG
-
 # Mastering Web Animations Using SVG
 
 
-https://codepen.io/seanmccaffery/pen/xBpbG
-https://codepen.io/suez/pen/ZGWbmE
-https://codepen.io/suez/pen/MwJdRy/
-https://codepen.io/chrisgannon/pen/EjVyXN
-https://codepen.io/sdras/pen/doZReX
-https://codepen.io/sol0mka/pen/ogOYJj
-https://codepen.io/Bidji/pen/dPEzwq
-https://codepen.io/pmk/pen/ByXOOq
-https://codepen.io/sdras/pen/waXKPw
+https://codepen.io/seanmccaffery/pen/xBpbG  
+https://codepen.io/suez/pen/ZGWbmE  
+https://codepen.io/suez/pen/MwJdRy/  
+https://codepen.io/chrisgannon/pen/EjVyXN  
+https://codepen.io/sdras/pen/doZReX  
+https://codepen.io/sol0mka/pen/ogOYJj  
+https://codepen.io/Bidji/pen/dPEzwq  
+https://codepen.io/pmk/pen/ByXOOq  
+https://codepen.io/sdras/pen/waXKPw  
 
 
 ## SVG Shape Morphs
@@ -29,8 +26,8 @@ http://raphaeljs.com/reference.html
 https://d3js.org/
 
 ## SVG Icons
-https://icomoon.io/app/#/select
-https://fontawesome.com/start
+https://icomoon.io/app/#/select  
+https://fontawesome.com/start  
 
 ## Whole SVG web-site page
 https://waaark.com/vision/
