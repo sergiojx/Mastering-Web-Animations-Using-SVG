@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg onload="startup(evt)" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+	
+	<script>
+	<![CDATA[
+	var svgDoc;
+	function startup(evt){
+		svgDoc=evt.target.ownerDocument;
+	}
+	
+	function see(n){
+		a="visibility"
+		e=svgDoc.getElementById("E"+n);
+		ega=e.getAttribute(a)
+		if(ega=="hidden") e.setAttribute(a,"visible");
+		else e.setAttribute(a,"hidden");
+	}
+	
+	]]>
+	</script>
+	
+	<ellipse cx="200" cy="270" rx="80" ry="80" fill="red" id="E1" visibility="visible"/>
+	<ellipse cx="200" cy="270" rx="50" ry="50" fill="black" onclick="see(1)"/>
+	
+	<text x="140" y ="180" font-size="55" fill="black">Click</text>
+
+</svg>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"  id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+@keyframes bounceIn{
+	0%{
+		transform: scale(1):
+		opacity: 1;
+	}
+	60%{
+		transform: scale(1.1);
+		opacity: 0.7;
+	}
+	100%{
+		transform: scale(1)
+	}
+}
+	#leftweel:hover{animation-duration:3s; animation-name: bounceIn}
+	.st0{fill:#0000FF;}
+	.st1{fill:#CCCCCC;}
+	.st2{fill:#F2F2F2;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FF1D25;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:59.7973px;}
+	.st6{font-family:'SegoeUI-Semilight';}
+	.st7{font-size:28.2894px;}
+	.st7:hover{fill:red;}
+	.st8{font-size:30.3587px;}
+	.st9{font-size:30.3588px;}
+	.st10{fill:#FF0000;}
+	.st11{fill:#999999;}
+	.st12{fill:#FBB03B;}
+	.st12:hover{opacity:0.1;}
+	.st13{fill:#22B573;}
+	.st13:hover{opacity:0.1;}
+</style>
+<g id="Capa_1">
+	<g>
+		<rect x="313" y="167.72" class="st0" width="392" height="443.67"/>
+		<path d="M704.5,168.22v442.67h-391V168.22H704.5 M705.5,167.22h-393v444.67h393V167.22L705.5,167.22z"/>
+	</g>
+	<g>
+		<rect x="342" y="139.5" class="st1" width="334" height="45"/>
+		<path d="M675.5,140v44h-333v-44H675.5 M676.5,139h-335v46h335V139L676.5,139z"/>
+	</g>
+	<g id="leftweel">
+		<rect x="753.5" y="303.06" class="st1"  width="54" height="173"/>
+		<path d="M807,303.56v172h-53v-172H807 M808,302.56h-55v174h55V302.56L808,302.56z"/>
+	</g>
+	<g>
+		<rect x="205.5" y="303.06" class="st1" width="54" height="173"/>
+		<path d="M259,303.56v172h-53v-172H259 M260,302.56h-55v174h55V302.56L260,302.56z"/>
+	</g>
+	<rect x="339.06" y="204.5" class="st2" width="335" height="380"/>
+	<text transform="matrix(0.4953 0 0 1 358.5621 278.8745)" class="st3 st4 st5">MEDIDAS EN CABINA</text>
+	<text transform="matrix(0.8096 0 0 1 375.0005 333.3984)"><tspan x="0" y="0" class="st6 st7">Ɣ</tspan><tspan x="17.65" y="0" class="st4 st7">:</tspan></text>
+	<text transform="matrix(0.5771 0 0 1 375.0005 371.103)" class="st4 st8">N:</text>
+	<text transform="matrix(0.7544 0 0 1 567.0005 333.9512)" class="st4 st9">mR/h</text>
+	<text transform="matrix(0.7544 0 0 1 567.0005 370.9512)" class="st4 st9">mR/h</text>
+	<text transform="matrix(0.8096 0 0 1 375.0005 498.5908)" class="st6 st7">Dual Ɣ+N</text>
+	<text transform="matrix(0.7544 0 0 1 567.0005 498.9512)" class="st4 st9">mR/h</text>
+	<text transform="matrix(0.8096 0 0 1 395.0005 548.5908)" class="st10 st6 st7">Nivel de ref: 5 uSv/h</text>
+</g>
+<g id="clickacceptpush">
+	<rect x="161" y="22" class="st11" width="144" height="108"/>
+</g>
+<g id="clickerasepush">
+	<rect x="715" y="22" class="st11" width="144" height="108"/>
+</g>
+<g id="clickerase">
+	<rect x="705" y="13" class="st12" width="164" height="126"/>
+</g>
+<g id="gamatext">
+	<text transform="matrix(0.8096 0 0 1 467.75 333.4478)" class="st6 st7">_ _ _</text>
+</g>
+<g id="neutrontext">
+	<text transform="matrix(0.8096 0 0 1 467.75 371.4478)" class="st6 st7">_ _ _</text>
+</g>
+<g id="dualtext">
+	<text transform="matrix(0.8096 0 0 1 508.75 498.4478)" class="st6 st7">_ _ _</text>
+</g>
+<g id="clickaccept">
+	<rect x="151" y="13" class="st13" width="164" height="126"/>
+</g>
+</svg>
