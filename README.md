@@ -1,5 +1,6 @@
 
 # Mastering Web Animations Using SVG
+https://learning.oreilly.com/videos/mastering-web-animations/9781788625883/9781788625883-video1_1  
 
 
 https://codepen.io/seanmccaffery/pen/xBpbG  
